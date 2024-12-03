@@ -31,6 +31,6 @@ This project demonstrates how SQL can be used to analyze a relational database f
 **Schema Diagram:**  
 The schema diagram below illustrates the structure and relationships between the tables used in the analysis:
 
-[View the schema diagram](https://drive.google.com/file/d/1Z8HbB1CmhNF1_JQkvTc76njqzneNf346/view?usp=sharing)
+[View the schema diagram](https://github.com/theaadycode/Music-Store-Data-Analysis-Project-using-SQL-/blob/main/schema_diagram.png)
 
 This project demonstrates proficiency in SQL and the ability to extract valuable insights from real-world datasets. It showcases a structured approach to data analysis and problem-solving, making it an ideal case for businesses aiming to make informed, data-driven decisions.
